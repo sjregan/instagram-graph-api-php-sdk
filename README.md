@@ -9,10 +9,10 @@ This repository contains the open source PHP SDK that allows you to access the I
 Run this command:
 
 ```
-composer require jstolpe/instagram-graph-api-php-sdk
+composer require sjregan/instagram-graph-api-php-sdk
 ```
 
-Require the the autoloader.
+Require the autoloader.
 
 ```php
 require_once __DIR__ . '/vendor/autoload.php'; // change path as needed
@@ -23,7 +23,7 @@ require_once __DIR__ . '/vendor/autoload.php'; // change path as needed
 Get the repository
 
 ```
-git clone git@github.com:jstolpe/instagram-graph-api-php-sdk.git
+git clone git@github.com:sjregan/instagram-graph-api-php-sdk.git
 ```
 
 Require the custom autoloader.

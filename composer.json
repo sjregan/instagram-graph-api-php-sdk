@@ -1,14 +1,14 @@
 {
-    "name": "jstolpe/instagram-graph-api-php-sdk",
+    "name": "sjregan/instagram-graph-api-php-sdk",
     "description": "Instagram Graph API PHP SDK",
     "keywords": ["instagram", "api", "graph api", "sdk", "php", "instagram graph api"],
     "type": "library",
-    "homepage": "https://github.com/jstolpe/instagram-graph-api-php-sdk",
+    "homepage": "https://github.com/sjregan/instagram-graph-api-php-sdk",
     "license": "MIT",
     "authors": [
         {
             "name": "Justin Stolpe",
-            "homepage": "https://github.com/jstolpe/instagram-graph-api-php-sdk"
+            "homepage": "https://github.com/sjregan/instagram-graph-api-php-sdk"
         }
     ],
     "require": {
